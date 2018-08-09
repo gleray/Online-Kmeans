@@ -1,2 +1,2 @@
-# Online-Kmeans
+# Online Adaptive Clustering 
 The present code 
